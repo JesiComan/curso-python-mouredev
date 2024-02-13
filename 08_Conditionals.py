@@ -19,9 +19,13 @@ print("Es menor o igual que 10 o mayor o igual que 20")
 
 print("La ejecución continua")
 
-my_string = " "
+my_string = "Mi cadena de texto"
 if my_string:
     print("Mi cadena de texto no es vacía")
+if my_string == "Mi cadena de texto":
+    print("Mi cadena de texto no es vacía")
+
+
     
 
 
